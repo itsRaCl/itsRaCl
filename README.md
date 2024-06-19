@@ -6,7 +6,6 @@ class Me:
     interests = {
         "backend_developement",
         "linux (i use arch btw)",
-        "cli/tui utility development",
     }
     currently_working = {
 				"developing skills to start open source contributions",
