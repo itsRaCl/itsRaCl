@@ -11,17 +11,20 @@ class Me:
 				"developing skills to start open source contributions",
 				"brainstorming project ideas"
 		}
-    learning = {"nestjs", "go"}
+    learning = {"Backend development with Go-lang", "Data Structures and Algorithms"}
     goal = "open source contributor"
     contact = {"personal_email": "rajclerk.2004 [at] gmail [dot] com"}
     skills = {
         "languages": {
-            "python",
-            "javascript",
-            "typescript",
+            "Python",
+            "JavaScript",
+            "TypeScript",
+	    "C",
+	    "C++",
+	    "Dart"
         },
-        "frameworks": {"django", "express.js"},
-        "other": {"docker", "nginx"},
+        "frameworks": {"Django", "Express.js", "Flutter"},
+        "other": {"Docker", "Firebase", "OAuth2.0", "Nginx"},
     }
     other_interests = {
         "motorcycling",
